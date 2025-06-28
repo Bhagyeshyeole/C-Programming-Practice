@@ -1,3 +1,4 @@
+//Program to compare age of three persons.
 #include<stdio.h>
 #include<conio.h>
 main()
