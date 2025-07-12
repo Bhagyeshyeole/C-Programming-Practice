@@ -1,3 +1,4 @@
+//Program to show given number in Spell form.
 #include<stdio.h>
 #include<stdlib.h>
 int main()
