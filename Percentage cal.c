@@ -1,3 +1,4 @@
+//Program to calculate percentage of students.
 #include<stdio.h>
 #include<math.h>    
 int main()
